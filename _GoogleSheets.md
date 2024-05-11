@@ -1,6 +1,6 @@
 
 
-Combine different sheets into one
+Combine different sheets called sheet1, sheet2, and sheet 3 into one
 and then filter them all based on regexp condition - that they contain `pattern1*` or `pattern2*`
 
 ```txt
